@@ -58,5 +58,3 @@ Feel free to reach out via [Email](mailto:drmouradap@gmail.com) or connect with 
 ---
 
 Thanks for visiting my GitHub profile! Explore my repositories and feel free to contribute or reach out if you have any questions or collaboration ideas.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouradap&show_icons=true&theme=radical)
