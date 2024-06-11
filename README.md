@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-![Profile Banner](https://github.com/mouradap/banner.jpeg)
+![Profile Banner](https://github.com/mouradap/mouradap/blob/master/banner.jpeg)
 
 ## 👋 About Me
 
