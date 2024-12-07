@@ -4,57 +4,81 @@
 
 ## 👋 About Me
 
-Hello! I'm **Denis Moura**, a **Senior Data Engineer** with over 4 years of experience in building scalable and resilient data pipelines and data platforms. My passion lies in working with data and using modern technologies to solve complex data problems. I have extensive experience with data models, SQL, AWS, and a deep love for Python. You can find me on [LinkedIn](https://www.linkedin.com/in/drmoura) and explore my projects here on [GitHub](https://github.com/mouradap), although I haven't been much active in my public projects lately.
+Hello! I'm **Denis Moura**, a **Senior Data Engineer** with over 4 years of experience in building scalable and resilient data pipelines and platforms. My passion lies in working with data and solving complex data challenges using modern technologies. Skilled in Python, SQL, AWS, and data engineering best practices, I also bring a strong focus on cost optimization and actionable insights. You can find me on [LinkedIn](https://www.linkedin.com/in/drmoura) and explore my work here on [GitHub](https://github.com/mouradap).
 
-## 🚀 Skills and Technologies
+---
 
-- **Programming Languages**: Python, SQL, JavaScript
-- **Big Data Technologies**: Hive, S3, Google Storage, Presto, Athena, BigQuery, Spark
-- **Data Warehousing & ETL**: Snowflake, Airflow, AWS Glue, AWS Step Functions, Lambda Functions, Kafka
-- **Cloud Platforms**: AWS, GCP
-- **Data Modeling & Quality**: Data Lakes, Delta Lakes, Data Governance, Data Validations
-- **Tools**: Terraform, Docker, Kubernetes, Git, GitHub Actions
-- **Data Visualization**: Sigma Computing, PowerBI, Looker Studio, Metabase
-- **Methodologies**: Agile/Scrum
+## 👨‍💼 **Professional Resume**
 
-## 💼 Professional Experience
+### **Summary**
+Senior Data Engineer with 4+ years of experience in designing scalable data pipelines and cloud-native solutions. Skilled in Python, SQL, and AWS, with expertise in migrating systems to Snowflake, developing ETL pipelines, and optimizing data analytics. Proven leader, interfacing client needs with engineering teams to deliver robust, user-focused data solutions.
 
-### Lead Data Engineer @ Dexian Disys (2022 – Present)
-- Developed a data migration platform with custom, reusable operators in Airflow for large-scale ETL batch processes, reducing AWS costs significantly.
-- Managed multiple data projects migrating data from on-premises solutions and third-party APIs to Snowflake, handling up to 10 million records per day using Kafka for batch and streaming pipelines.
-- Created various reports and dashboards using Spotfire, Sigma Computing, and PowerBI.
+---
 
-**Technologies**: Python, Airflow, Snowflake, AWS, Git, GitHub Actions, Terraform, Docker, Kubernetes, Kafka
+### **Skills and Technologies**
+- **Programming Languages**: Python, SQL, JavaScript  
+- **Big Data Technologies**: Snowflake, Iceberg, Spark, Kafka  
+- **Cloud Platforms**: AWS (S3, Glue, Lambda, Step Functions, Athena), GCP (BigQuery, Storage)  
+- **Data Orchestration**: Airflow, Step Functions  
+- **DevOps & Tools**: Terraform, Docker, Kubernetes, Git, GitHub Actions  
+- **Visualization Tools**: PowerBI, Sigma Computing, Looker Studio, Metabase  
+- **Data Modeling & Governance**: Data Lakes, Lake Formation, Data Quality Validation  
 
-### Data Engineer @ Varsomics – Hospital Israelita Albert Einstein (2021 – 2022)
-- Led a data migration project to create a data lake for 70 Terabytes of genomic data on AWS, employing S3, Glue, Athena, Lake Formation, and EMR to build a custom Delta Lake structure.
-- Developed and maintained numerous reports and dashboards for internal clients, streamlining genomics pipeline monitoring and final user results analysis.
+---
 
-**Technologies**: Python, AWS Glue, AWS Step Functions, AWS Athena, Terraform, Docker, Git, PySpark
+### **Professional Experience**
 
-### Software Engineer @ PickCells (2020 – 2021)
-- Developed and maintained a microscopy solution, automating robot movements and enhancing camera focus using Python and C libraries.
-- Spearheaded an international data science project using Python for COVID-19 network analysis and led an on-premises to cloud data lake migration project using Airflow and AWS.
+#### **Lead Data Engineer**  
+**Dexian Disys** (U.S. based nearshore – remote)  
+*2022 – Present*  
+- Engineered a scalable data migration platform using **Airflow**, reducing AWS operational costs by **30%**.  
+- Migrated **200+ views** to **Snowflake**, improving query performance by **40%**.  
+- Automated MS Teams-to-Snowflake ingestion, ensuring data privacy and workflow efficiency.  
+- Delivered actionable insights through dashboards built in **Sigma Computing** and **PowerBI**.  
+- Designed secure data upload tools for daily team use, handling gigabytes of data seamlessly.  
+- Led a team of 4 experienced Data Engineers, allowing a charismatic example-based **leadership**. Interfaced final users to data owners and the engineering team to develop robust, **client-first** data solutions.
 
-**Technologies**: Python, Airflow, AWS, Network Science, Kubernetes, Deep Learning, Computer Vision
+#### **Data Engineer**  
+**Varsomics – Hospital Israelita Albert Einstein** (Brazil – remote)  
+*2021 – 2022*  
+- Migrated **70TB** genomic data to AWS Data Lake, enabling faster analytics with robust governance.  
+- Created a Delta Lake structure with efficient data governance via **Lake Formation** and **Athena**.  
+- Developed dashboards to monitor genomics pipelines, simplifying internal data analysis processes.  
 
-## 🎓 Education
+#### **Software Engineer**  
+**PickCells** (Brazil – Local)  
+*2020 – 2021*  
+- Automated microscopy processes integrating robot movements and camera focus with Python.  
+- Led an on-premises to AWS cloud migration project with real-time pipelines using **Airflow**.  
+- Conducted COVID-19 network analysis using **Python** and advanced data science techniques.  
 
-- **Ph.D. in Applied Biology (Bioinformatics)**, Universidade Federal de Pernambuco, 2022
-- **M.Sc. in Applied Biology (Neuroscience & Bioinformatics)**, Universidade Federal de Pernambuco, 2018
-- **B.Sc. in Biology**, Universidade Federal de Pernambuco, 2015
+---
 
-## 🌟 Projects and Achievements
+### **Education**
+- **Ph.D. in Applied Biology (Bioinformatics)**, Universidade Federal de Pernambuco, 2022  
+- **M.Sc. in Applied Biology (Neuroscience)**, Universidade Federal de Pernambuco, 2018  
+- **B.Sc. in Biology**, Universidade Federal de Pernambuco, 2015  
 
-- **Data Migration Platform**: Developed a reusable data migration platform in Airflow, optimizing cost and performance for a global client.
-- **Genomic Data Lake**: Led the creation of a genomic data lake, enhancing data governance and compliance with legislation.
-- **On-premises to AWS Data Lake**: Led the creation of a data lake in AWS, moving daily and almost real time data from On-Premises to AWS using Airflow.
-- **Microscopy Automation**: Built and maintained an automated microscopy solution, contributing to advanced research capabilities.
+---
+
+### **Certifications**
+- Astronomer Certification for Apache Airflow Fundamentals (2024)  
+- AWS Partner: Security Governance at Scale (2021)  
+- Confluent Apache Kafka Fundamentals (2021)  
+
+---
+
+### **Projects and Achievements**
+- **Data Migration Platform**: Designed a scalable platform in **Airflow**, optimizing ETL workflows and cutting costs by **30%**.  
+- **Genomic Data Lake**: Led a genomic data migration project, enhancing compliance and reducing query times by **25%**.  
+- **Microscopy Automation**: Created a Python-based microscopy solution, boosting research capabilities.  
+- **Compliance Tool**: Built a **React/NodeJS** tool for tracking and managing compliance-sensitive data in **Snowflake**.  
+
+---
 
 ## 📫 Get in Touch
-
 Feel free to reach out via [Email](mailto:drmouradap@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/drmoura).
 
 ---
 
-Thanks for visiting my GitHub profile! Explore my repositories and feel free to contribute or reach out if you have any questions or collaboration ideas.
+Thank you for visiting my GitHub profile! Explore my repositories, and don’t hesitate to connect for collaboration opportunities or questions.
